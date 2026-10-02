@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SÍTIO DOS LUNA</name>
+	<description>Arquivo KML único para visualização no Google Earth. Referência do levantamento: SIRGAS 2000 / UTM Zona 23S, Castanhal-PA. As duas áreas são apresentadas no mesmo arquivo, com os pilares identificados por alfinetes.</description>
+	<gx:CascadingStyle kml:id="__managed_style_0786AF0647412C7FD244_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.15</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_06E20E1B74412D233D0A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_06E20E1B74412D233D0A_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06E20E1B74412D233D0A_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0786AF0647412C7FD244_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.38</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_06E20E1B74412D233D0A_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff1616ea</color>
+				<width>3.04762</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>400d0dea</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0AB289EB2D412C7FD24D_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>330000ff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0AB289EB2D412C7FD24D_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>330000ff</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0786AF0647412C7FD244">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0AB289EB2D412C7FD24D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0AB289EB2D412C7FD24D_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0AB289EB2D412C7FD24D_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_06E20E1B74412D233D0A_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff1616ea</color>
+				<width>4.57143</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>400d0dea</color>
+			</PolyStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0F8E1FF2DD412C7FD24C_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0F8E1FF2DD412C7FD24C_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F8E1FF2DD412C7FD24C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0F8E1FF2DD412C7FD24C_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F8E1FF2DD412C7FD24C_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0FA96CFF72412C7F4877">
+		<name>Áreas unificadas</name>
+		<styleUrl>#__managed_style_0F8E1FF2DD412C7FD24C</styleUrl>
+		<Placemark id="01F3C144B1412C7F4878">
+			<name>SÍTIO DOS LUNA</name>
+			<styleUrl>#__managed_style_0AB289EB2D412C7FD24D</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-47.91376576870729,-1.238041687672278,0 -47.91880560077682,-1.241304684115291,0 -47.91876459099299,-1.241646089623222,0 -47.91867950291584,-1.241659737442441,0 -47.91882573035987,-1.242631790947888,0 -47.91808862816628,-1.242640200984919,0 -47.91839674521029,-1.244293800767335,0 -47.91786224441534,-1.245025998565743,0 -47.91805611032834,-1.247190229719357,0 -47.91287481109565,-1.247479183624836,0 -47.91263732733209,-1.245404351908785,0 -47.91245353768699,-1.245461660936182,0 -47.9121006109358,-1.244776980607623,0 -47.9141357056258,-1.243032580782988,0 -47.91250550622988,-1.24127915274431,0 -47.91376576870729,-1.238041687672278,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="119BDC4A9F412C7F4878">
+			<name>BLIO-M - Área 31,1711 ha</name>
+			<styleUrl>#__managed_style_06E20E1B74412D233D0A</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-47.92802634,-1.24404962,0 -47.92745882999999,-1.2467056,0 -47.91851773999999,-1.24713625,0 -47.91842521,-1.24432004,0 -47.92802634,-1.24404962,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder id="203AAAB595412C7F4878">
+		<name>Pilares / Marcos</name>
+		<styleUrl>#__managed_style_0F8E1FF2DD412C7FD24C</styleUrl>
+		<Placemark id="327EC29DBD412C7F4878">
+			<name>F08M-0274</name>
+			<description>Pilar/Marco: F08M-0274. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91250550622988,-1.24127915274431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="46A1EC19A6412C7F4878">
+			<name>F08M-0273</name>
+			<description>Pilar/Marco: F08M-0273. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.9141357056258,-1.243032580782988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5FF0EE6CB3412C7F4878">
+			<name>F08M-0272</name>
+			<description>Pilar/Marco: F08M-0272. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.9121006109358,-1.244776980607623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6688EC118A412C7F4878">
+			<name>F08M-0271</name>
+			<description>Pilar/Marco: F08M-0271. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91245353768699,-1.245461660936182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="74DB46C66E412C7F4878">
+			<name>F08M-0270</name>
+			<description>Pilar/Marco: F08M-0270. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91263732733209,-1.245404351908785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="8297DB6982412C7F4878">
+			<name>F08M-0269</name>
+			<description>Pilar/Marco: F08M-0269. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91287481109565,-1.247479183624836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="9417649B9C412C7F4878">
+			<name>F08M-0268</name>
+			<description>Pilar/Marco: F08M-0268. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91805611032834,-1.247190229719357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="A6A2C62F63412C7F4878">
+			<name>F08M-0267</name>
+			<description>Pilar/Marco: F08M-0267. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91786224441534,-1.245025998565743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="BA3F594F7D412C7F4878">
+			<name>F08M-0281</name>
+			<description>Pilar/Marco: F08M-0281. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91839674521029,-1.244293800767335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="C3756A38D6412C7F4878">
+			<name>F08M-0280</name>
+			<description>Pilar/Marco: F08M-0280. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91808862816628,-1.242640200984919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="D7DE5FFC92412C7F4878">
+			<name>F08M-0279</name>
+			<description>Pilar/Marco: F08M-0279. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91882573035987,-1.242631790947888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="EBA78785A4412C7F4878">
+			<name>F08M-0278</name>
+			<description>Pilar/Marco: F08M-0278. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91867950291584,-1.241659737442441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="FCA7F59B0F412C7F4878">
+			<name>F08M-0277</name>
+			<description>Pilar/Marco: F08M-0277. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91876459099299,-1.241646089623222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1078EDE35A7412C7F4878">
+			<name>F08M-0276</name>
+			<description>Pilar/Marco: F08M-0276. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91880560077682,-1.241304684115291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="113E970F00E412C7F4878">
+			<name>F08M-0275</name>
+			<description>Pilar/Marco: F08M-0275. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91376576870729,-1.238041687672278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="12091DC8A31412C7F4878">
+			<name>BLIO-M-D010</name>
+			<description>Pilar/Marco: BLIO-M-D010. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91842521,-1.24432004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1304F784A02412C7F4878">
+			<name>F5W-M-1506</name>
+			<description>Pilar/Marco: F5W-M-1506. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.91851773999999,-1.24713625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="148094DF68B412C7F4878">
+			<name>BLIO-M-D012</name>
+			<description>Pilar/Marco: BLIO-M-D012. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.92745882999999,-1.2467056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1503D70C03C412C7F4878">
+			<name>BLIO-M-D013</name>
+			<description>Pilar/Marco: BLIO-M-D013. Referência: Castanhal-PA, UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0786AF0647412C7FD244</styleUrl>
+			<Point>
+				<coordinates>-47.92802634,-1.24404962,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder id="160102900C1412C7F4878">
+		<name>Informações</name>
+		<styleUrl>#__managed_style_0F8E1FF2DD412C7FD24C</styleUrl>
+		<Placemark id="17FF0FD87E3412C7F4878">
+			<name>Área total das duas propriedades</name>
+			<description>F08M: 51,8414 ha
+BLIO-M: 31,1711 ha
+Total: 83,0125 ha
+Sistema de referência do levantamento: SIRGAS 2000 / UTM Zona 23S.</description>
+			<styleUrl>#__managed_style_0F8E1FF2DD412C7FD24C</styleUrl>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
