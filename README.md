@@ -1,5 +1,5 @@
 # Sítio dos Luna
-Site estático pronto para GitHub Pages. Documentação pública por solicitação do responsável.
+Site estático pronto para GitHub Pages. Documentação em atualização.
 
 ## Publicar
 1. Crie um repositório no GitHub chamado `sitio-dos-luna`.
@@ -11,8 +11,7 @@ Referência: https://docs.github.com/en/pages/getting-started-with-github-pages/
 ## Conteúdo
 - Duas áreas e 19 marcos extraídos do KML recebido, sem mudança das coordenadas.
 - Áreas exibidas conforme declaração no KML, não como cálculo ou certificação registral.
-- Oito imagens de documentos fornecidos; primeira página repetida do CAR omitida.
-- Imagens preservadas integralmente. Os arquivos originais não foram retocados.
+- Documentos anteriores retirados; aguardando os documentos originais.
 - Link Como chegar abre a localização fornecida pelo usuário: https://maps.app.goo.gl/jbuT674Db7guLPDWA.
 - Sem formulário, coleta de dados ou sistema de login.
 
